@@ -1,4 +1,4 @@
-The objective of this project was to develop a deep learning model with more than 60% accuracy using different kinds of neural networks.
+The **objective** of this project was to develop a deep learning model with more than 60% accuracy using different kinds of neural networks.
 
 The dataset we've been given was organized into 2 folders (train, test) and contained subfolders for each image category (Pneumonia/Normal). There were X-Ray images (JPEG) and 2 categories (Pneumonia/Normal). Chest X-ray images (anterior-posterior) were selected from retrospective cohorts of pediatric patients of one to five years old from Guangzhou
 Women and Children’s Medical Center, Guangzhou. All chest X-ray imaging was performed as part of patients’ routine clinical care. For the analysis of chest x-ray images, all chest radiographs were initially screened for quality control by removing all low quality
